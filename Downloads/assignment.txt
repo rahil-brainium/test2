@@ -1,0 +1,29 @@
+git - Create repository, create ssh key in local machine, add the ssh key to the git, clone the repository into local system through terminal, make some changes and push it to git
+
+, create one branch and push the local branch to the remote server, merge child branch to parent branch and push it to git.
+
+
+irb - what is irb and it's use.
+rails console - what is rails console and it's use.
+How to run a ruby code in terminal.
+>> What's the difference between ARGV and gets.chomp?
+http://learnrubythehardway.org/book/ex13.html
+>> Pass variable to ruby function and display
+>> Ask for two number and use .each operator.
+>> Check whether the number is even or odd.
+>> Check whether the number is positive or negative.
+>> Check the number is prime or not.
+>> Ask for two input(only integer) use  begin raise and rescue.
+>> Check if a value exists in an array
+>> Create an average from an array	
+>>Print group of even number and group of odd number from list of numbers."	
+Check if a number exist in an array in using loop
+
+
+
+
+>> Time wise print good morning(6 am-11:59 am),good noon(12:noon) good afternoon(12:01 - 5:00 pm), good evening(5:01-9:00 pm ) and good night(:9:01-6:00 am). (case)
+>> Only show first letters of string of each word
+Create an array and sort it using each
+Design 4 types of pyramid
+
