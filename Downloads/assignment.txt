@@ -1,6 +1,6 @@
 git - Create repository, create ssh key in local machine, add the ssh key to the git, clone the repository into local system through terminal, make some changes and push it to git
 
-, create one branch and push the local branch to the remote server, merge child branch to parent branch and push it to git.
+,
 
 
 irb - what is irb and it's use.
@@ -26,4 +26,4 @@ Check if a number exist in an array in using loop
 >> Only show first letters of string of each word
 Create an array and sort it using each
 Design 4 types of pyramid
-
+create one branch and push the local branch to the remote server, merge child branch to parent branch and push it to git.
