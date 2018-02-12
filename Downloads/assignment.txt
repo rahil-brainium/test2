@@ -14,11 +14,11 @@ http://learnrubythehardway.org/book/ex13.html
 >> Create an average from an array	
 >>Print group of even number and group of odd number from list of numbers."	
 Check if a number exist in an array in using loop
-
-
-
-
 >> Time wise print good morning(6 am-11:59 am),good noon(12:noon) good afternoon(12:01 - 5:00 pm), good evening(5:01-9:00 pm ) and good night(:9:01-6:00 am). (case)
+
+
+
+
 >> Only show first letters of string of each word
 Create an array and sort it using each
 Design 4 types of pyramid
