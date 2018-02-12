@@ -1,0 +1,15 @@
+<%= form_tag(exam_thankyou_path,:method => 'post') %>
+
+
+<h1>Questions </h1>
+<%@question.each do |q| %>
+<p><b><%=q.id %>.<%= q.ques %></p></b>
+<%# debugger %>
+<% q.options.each do |a| %>
+<%= radio_button_tag q.id,a.opt %><%= a.opt %>
+<% end %>
+<% end %>
+<br>
+<br>
+
+<%= submit_tag "Finish Exam", :class => "form_submit"%>

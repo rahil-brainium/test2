@@ -1,0 +1,8 @@
+<% if member_signed_in? %>
+<h1> You have successfully signed in </h1>
+<%= link_to "Signout", destroy_member_session_path,:method => :delete %>
+<%else %>
+<h1> Welcome </h1>
+<%= link_to "Sign_in", new_member_session_path,:method => :get %>
+<%= link_to "Sign_up", new_member_registration_path,:method => :get %>
+<% end %>
