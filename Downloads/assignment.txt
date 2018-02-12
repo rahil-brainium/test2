@@ -1,8 +1,4 @@
 git - Create repository, create ssh key in local machine, add the ssh key to the git, clone the repository into local system through terminal, make some changes and push it to git
-
-,
-
-
 irb - what is irb and it's use.
 rails console - what is rails console and it's use.
 How to run a ruby code in terminal.
